@@ -58,3 +58,4 @@
 ## 📝 라이선스
 
 MIT License
+[slash snippets plugin](https://github.com/echo-saurav/slash-snippets-plugin)의 코드를 참조하였습니다.
